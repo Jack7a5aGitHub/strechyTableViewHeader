@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "48863e227aae59dc1be74500797d7183"
+build_time: [1527823234, 620064000]
+inputs:
+  "/Users/jackwong/Desktop/Developer/StrectchyUITableView/StrectchyUITableView/ViewController.swift": [1527823141, 0]
+  "/Users/jackwong/Desktop/Developer/StrectchyUITableView/StrectchyUITableView/CustomCell.swift": [1527820441, 0]
+  "/Users/jackwong/Desktop/Developer/StrectchyUITableView/StrectchyUITableView/AppDelegate.swift": [1527816355, 0]
